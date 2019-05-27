@@ -1,0 +1,25 @@
+{
+    "transactions": [
+        {
+            "benef_id": "325338",
+            "payee_name": "Bogo Mips Plc",
+            "t_datetime_submitted": "2019-05-27 16:24:00",
+            "foreign_amount": "EUR 10000.00",
+            "currency_rate_per_unit": "0.61678",
+            "amount_from_bef_fee": "AUD 16213.24",
+            "fee": "0.00",
+            "total_trans_amount_from": "AUD 16213.24",
+            "reference": "CPUs shipment",
+            "tran_type": "Wire Transfer",
+            "bene_payment_type": "Wire Transfer",
+            "batch_ref_num": "B750113",
+            "ref_number": "T1065827",
+            "payment_status": "Awaiting Funds",
+            "approve": null,
+            "payment_status_abrv": "pending",
+            "client_data": null
+        }
+    ]
+}
+
+
