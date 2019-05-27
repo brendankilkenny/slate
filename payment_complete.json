@@ -1,0 +1,24 @@
+ {
+   "payee_name": "Bogo MIPS PLC", 
+   "country_id": "87", 
+   "state": "", 
+   "currency_type_id": "EUR", 
+   "account_number_type": "iban_3", 
+   "account_number": "DE51512308006502520220", 
+   "transit_code_type": "", 
+   "transit_code": "", 
+   "payee_address": "Prinzenstrabe 35 10969 Berlin Germany", 
+   "bank_branch_address": "Einsteinring 35 85609 Aschheim Germany", 
+   "account_type": "resident_30", 
+   "payee_address_to_account_type": "", 
+   "payee_address_to_country_state": "", 
+   "bank_branch_address_to_account_type": "", 
+   "payee_address_to_country_state": "", 
+   "for_further_credit_to": "", 
+   "def_payment_reference": "Invoice payment", 
+   "def_transfer_reason": "Bill_pay", 
+   "email": "acm2e@bogomips.com", 
+   "email_alert_flag": 0 
+ } 
+
+ 
